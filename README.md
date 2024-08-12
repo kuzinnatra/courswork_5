@@ -6,9 +6,9 @@ database.ini
 со следующими строками:
 
 [postgresql]
-host=localhost
-user=postgres
-password=0000
-port=5432
+host=localhost 
+user=postgres 
+password=0000 
+port=5432 
 
 Замените 0000 на ваш пароль для PostgreSQL
